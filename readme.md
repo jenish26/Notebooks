@@ -1,0 +1,1 @@
+Data was gathered and saved in accidents.csv file. Then the data was then transformed from a csv file to a public URL for simple access.
